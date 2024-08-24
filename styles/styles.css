@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0px;
+    border:border-box;
+}
+
+body {
+    width: 1440px;
+height: 1080px;
+top: -541px;
+left: -939px;
+gap: 0px;
+border-radius: 8px 0px 0px 0px;
+opacity: 0px;
+
+}
+
+
+h2 {
+    font-family: "Inconsolata", monospace;
+    font-optical-sizing: auto;
+    font-weight:700;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+       line-height: 25.18px;
+      size: 24px; 
+      
+  }
+
+#main-header {
+    width: 200px;
+    height: 25px;
+    /* border: 2px solid black; */
+    margin-top:40px ;
+    margin-left: 77px;
+}
+
+#image-section {
+    display: flex;
+    /* border: 2px solid black; */
+    margin-left: 77px;
+    margin-top: 265px;
+}
+
+img {
+    width: 539.22px;
+    height: 447.43px;
+    /* border: 2px solid black; */
+}
+
+#newsbox {
+    width: 586px;
+    margin-left:150px;
+    height: 447.43px;
+    /* border: 2px solid black; */
+}
+
+
+#newshead {
+    width:586px;
+    height: 190px;
+}
+
+h1{
+    font-family: "Space Mono", monospace;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 60px;
+    line-height: 94.78px;
+  }
+
+#paragraph {
+    width: 260px;
+    height: 108px;
+    /* border: 2px solid black; */
+    margin-top: 30px;
+}
+
+#paragraph p {
+    font-family: "Space Mono", monospace;   
+}
+
+#btn {
+    width: 216px;
+    height: 68px;
+    background-color: black;
+    color: white;
+
+}
