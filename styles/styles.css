@@ -6,12 +6,12 @@
 
 body {
     width: 1440px;
-height: 1080px;
-top: -541px;
-left: -939px;
-gap: 0px;
-border-radius: 8px 0px 0px 0px;
-opacity: 0px;
+    height: 1080px;
+    top: -541px;
+    left: -939px;
+    gap: 0px;
+    border-radius: 8px 0px 0px 0px;
+    opacity: 0px;
 
 }
 
@@ -93,7 +93,7 @@ h1{
     width: 300px;
     height: 17px;
     /* border: 2px solid black; */
-    margin-left: 650px;
+    margin-left: 525px;
     margin-top:300px;
 }
 
